@@ -6,6 +6,8 @@ I look foward to learning more and sharing content as well. :grinning:
 
 Oh, I'm trying social media detoxing but you still can find me on [twitter](https://twitter.com/huntingpearls), most of my tweets are in portuguese though. :sweat_smile:
 
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riosi&layout=compact)
+
 
 
 <!--
