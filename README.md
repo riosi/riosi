@@ -1,13 +1,12 @@
-### Hi there 👋
+## Hello!! :sunny:
 
-My name is Ingryd and I'm a brazilian web-developer in the making! :star2:
-I'm self-taught and currently taking my first steps with JavaScript but I also mess around with HTML5 and CSS3. 
-I look foward to learning more and sharing content as well. :grinning:
+:ice_cream: My name is **Ingryd** and in 2020 I decided to make a career change! <br>Since then I'm focusing on refining my skills as a **frontend** web developer.<br>
+I'm mainly studying **javascript** right now, trying to touch some frameworks here and there. <br>
 
-Oh, I'm trying social media detoxing but you still can find me on [twitter](https://twitter.com/huntingpearls), most of my tweets are in portuguese though. :sweat_smile:
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riosi&layout=compact)
-
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riosi/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riosingryd@gmail.com)
+[![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/riosi)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/huntingpearls)
 
 
 <!--
