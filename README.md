@@ -4,9 +4,9 @@
  
 
 
-desenvolvedora front-end & cursando análise e desenvolvimento de sistemas,<br/> 
+desenvolvedora de software cursando análise e desenvolvimento de sistemas,<br/> 
 buscando avanço social e pessoal através da tecnologia. <br/><br/>
-:crystal_ball: focando em javascript (estudando **_react_**) + uma pitada de **_java_** pra completar o dia.
+:crystal_ball: focando em back-end! 
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riosi/)
